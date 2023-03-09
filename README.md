@@ -7,4 +7,4 @@ Use Package :
 
 ## Demo
 
-https://qr-code-components-pied.vercel.app/
+https://barcode-sage.vercel.app/
