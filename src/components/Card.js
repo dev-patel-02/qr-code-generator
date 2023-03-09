@@ -8,7 +8,7 @@ function Card() {
       <img 
           className="rounded-xl w-[300px] h-[288px]"
           src={code}
-          alt="bar-code"
+          alt="barcode"
         />
       </div>
       
